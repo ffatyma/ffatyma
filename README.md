@@ -14,15 +14,15 @@
 
 ###
 
-<h4 align="left">˚˖✧ ABOUT ME</h4>
+<h3 align="left">˚˖✧ ABOUT ME</h3>
 
 ###
 
-<h5 align="left">🎀 I’m currently working on getting a bachelors degree in comp sci<br>🎀 In my free time I like reading, editing and coding</h5>
+<h3 align="left">🎀 I’m currently working on getting a bachelors degree in comp sci<br>🎀 In my free time I like reading, editing and coding</h3>
 
 ###
 
-<h4 align="left">˚˖✧ LANGUAGE AND TOOLS</h4>
+<h3 align="left">˚˖✧ LANGUAGE AND TOOLS</h3>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h4 align="left">˚˖✧ MY STATS</h4>
+<h3 align="left">˚˖✧ MY STATS</h3>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h4 align="left">˚˖✧ SOCIALS</h4>
+<h3 align="left">˚˖✧ SOCIALS</h3>
 
 ###
 
