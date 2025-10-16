@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">🎀 I’m currently working on getting a bachelors degree in comp sci<br>🎀 In my free time I like reading, editing and coding</h3>
+<h3 align="left">🎀 I’m currently working on getting a bachelors degree in comp sci<br>🎀 In my free time I like reading and editing </h3>
 
 ###
 
